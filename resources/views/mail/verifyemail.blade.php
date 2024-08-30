@@ -1,0 +1,1 @@
+<a href="{{ $url }}">Click here to verify your email address</a>
